@@ -1,6 +1,7 @@
 ##[Marketing Data & Campaign Coordinator](https://www.linkedin.com/jobs2/view/98197975?trk=vsrp_jobs_res_name&trkInfo=VSRPsearchId%3A2952648851453116722317%2CVSRPtargetId%3A98197975%2CVSRPcmpt%3Aprimary) position in [Salesforce](http://www.salesforce.com/eu/)
 
-#Keywords: Marketing Data, Campaign, data quality project, Reporting, ROI measurement, analysis, Insight, marketing strategic, build and monitor reporting metrics, dashboard, Scorecard, data quality management, campaigns operations, Audience Marketing, marketing programs, digital marketing, events, data-driven decisions, lead process, scoring, nurturing, marketing reviews, business presentation, 
+
+Keywords: Marketing Data, Campaign, data quality project, Reporting, ROI measurement, analysis, Insight, marketing strategic, build and monitor reporting metrics, dashboard, Scorecard, data quality management, campaigns operations, Audience Marketing, marketing programs, digital marketing, events, data-driven decisions, lead process, scoring, nurturing, marketing reviews, business presentation, 
 Skills needed: analytical, Revenue Minded, #collaborative individual, talented, reporting and planning, design, business presentation
 Additional info: You will work closely with marketing, sales strategy, and business operations to provide a common operating picture of the French marketing business.
 
