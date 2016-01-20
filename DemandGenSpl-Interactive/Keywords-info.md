@@ -1,6 +1,6 @@
 ##[Demand Generation Specialist](https://www.linkedin.com/jobs2/view/99652018?trk=jobs_sj) position in [Interactive Intelligence](https://www.inin.com/)
 
-**asterisks**###Keywords: 
+###Keywords:
 Demand Generation, email, social media, phone-based outreach, qualify leads, organic and paid search, digital advetising, content syndication, trade shows, field events, email campaign, lead nurturing, digital automation systems, uncover qualified targets, Business Intelligence, Analyze, Technical product information, salesforece.com, ELoqua, LeadLander, feedback, Optimize campaign, live chat, email, and incoming, outbound calls, inbound marketing, communication, including scripts, email template creation, corporate messaging, Pardot, Eloqua, Marketo, Hubspot, Demandbase, Salesvue, InsideView, Linkedin, Customer Relationship Management (CRM)
 
 ###Skills needed: 
