@@ -8,5 +8,10 @@
 - Emailing / html emails
 - CMS / WordPress / drupal
 
+###**How?**
+- Meetups & other networking events
+- friends
+- Online communities
+
 Leads:
 [Zenlyapp](https://zen.ly/)
