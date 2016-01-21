@@ -9,4 +9,4 @@
 - CMS / WordPress / drupal
 
 Leads:
-[Zenlyapp](http//www.zen.ly)
+[Zenlyapp](https://zen.ly/)
