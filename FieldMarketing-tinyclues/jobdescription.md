@@ -28,10 +28,12 @@ MBA or Masters in marketing or in Communication/PR
 
 ###Other requirements:
 
-Minimum of 2 years B to B marketing experience in a software company
-Expert in event planning and management, including speaker outreach and vendor relationships
-Strong abilities with email marketing, lead nurturing, marketing automation
-Proficient in Salesforce and Pardot marketing automation
+- Minimum of 2 years B to B marketing experience in a software company
+- Expert in event planning and management, including speaker outreach and vendor relationships
+- Strong abilities with email marketing, lead nurturing, marketing automation
+- Proficient in Salesforce and Pardot marketing automation
 Excellent communicator and creative thinker with an ability to use data to inform decisions
-Excellent written and spoken English
-Great attention to detail and project management skills. This role requires balancing several initiatives together!
+- Excellent written and spoken English
+- Great attention to detail and project management skills. 
+
+**_This role requires balancing several initiatives together!_**
