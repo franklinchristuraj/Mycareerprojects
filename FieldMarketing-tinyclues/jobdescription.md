@@ -1,4 +1,4 @@
-**Tinyclues** is recruiting a Field Marketing Manager to join its growing Marketing team and drive the field marketing plan from development to execution. In this role you will be responsible for lead generation and nurturing, through a number of marketing channels, including inbound and outbound tactics as well as events. You will work closely with the sales team to build a successful, sustainable pipeline of leads and customers.
+**Tinyclues** is recruiting a <b>Field Marketing Manager</b> to join its growing Marketing team and drive the field marketing plan from development to execution. In this role you will be responsible for lead generation and nurturing, through a number of marketing channels, including inbound and outbound tactics as well as events. You will work closely with the sales team to build a successful, sustainable pipeline of leads and customers.
 
 ##REQUIREMENTS
 
