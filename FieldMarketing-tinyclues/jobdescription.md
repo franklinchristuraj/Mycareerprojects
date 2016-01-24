@@ -4,21 +4,22 @@
 
 ###Responsibilities: 
 
-- Develop the field marketing plan based on marketing strategy
-- Drive digital marketing campaigns using Pardot, Salesforce, and GoToMeeting, more specifically:
-- Grow new leads by converting site traffic through calls-to-action and landing pages
-- Manage and build email lists and campaigns, including templates, calls-to-action, and content
-- Optimize our marketing automation and lead nurturing processes
-- Establish closed-loop analytics with sales to understand how our marketing activity turns into customers, and continually refine our process to convert customers
-- Manage online and offline events for prospects, customers and partners, more specifically:
-- Create detailed plans for all events, including timelines, venues, vendors, staffing, and budgets
-- Identify and secure speakers, special guests, and/or entertainment 
-- Plan event layouts, logistics and agendas
-- Coordinate with all internal and external stakeholders
-- Provide excellent support of attendees and guests 
-- Oversee budget
-- Monitor and report on effectiveness/ROI
-- Understand and stay informed on the competitive landscape
+<ol> <li>One Develop the field marketing plan based on marketing strategy</li>
+<li>Drive digital marketing campaigns using Pardot, Salesforce, and GoToMeeting, more specifically:</li>
+<li>Grow new leads by converting site traffic through calls-to-action and landing pages</li>
+<li>Manage and build email lists and campaigns, including templates, calls-to-action, and content</li>
+<li>Optimize our marketing automation and lead nurturing processes</li>
+<li>Establish closed-loop analytics with sales to understand how our marketing activity turns into customers, and continually refine our process to convert customers</li>
+<li>Manage online and offline events for prospects, customers and partners, more specifically:</li>
+<li>Create detailed plans for all events, including timelines, venues, vendors, staffing, and budgets</li>
+<li>Identify and secure speakers, special guests, and/or entertainment </li>
+<li>Plan event layouts, logistics and agendas</li>
+<li>Coordinate with all internal and external stakeholders</li>
+<li>Provide excellent support of attendees and guests </li>
+<li>Oversee budget</li>
+<li>Monitor and report on effectiveness/ROI</li>
+<li>Understand and stay informed on the competitive landscape</li>
+</ol>
 
 ##Desired Skills and Experience
 
