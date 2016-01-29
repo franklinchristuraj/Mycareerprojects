@@ -1,2 +1,5 @@
 # Mycareerprojects
-Petty projects related to my Job search!
+**Petty projects related to my Job search!**
+
+##Books to read
+##Ideas!
