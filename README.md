@@ -1,5 +1,4 @@
 # Mycareerprojects
-**Petty projects related to my Job search!**
+**My career advancement plan**
 
-##Books to read
 ##Ideas!
